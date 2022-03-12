@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/842610340168728588/942282391731470366/static.png)
+
 
 
 <hr>
