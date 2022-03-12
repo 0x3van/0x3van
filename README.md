@@ -10,9 +10,8 @@
 <hr>
 
 <li> my website is https://evan.systems </li>
-<li> i use lua [Luau] primarily for <a href="https://roblox.com"> ROBLOX </a>. </li>
-<li> im learning C#. </li>
-<li> im working on top secret scripts with TS. </li>
+<li> im a lua, html, css and ts scripter. </li>
+<li> fuck you </li>
 
 <hr>
 
@@ -24,6 +23,6 @@
 
 give me money in paypal in my website nerd
 
-... Or you could donate to me in cryptocurrency:
+actually give me money here 
 <li> <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Bitcoin-BTC-icon.png" length="19" width="19"> BTC: <code> bc1qvhllk724amdvmr052phad7hcjgkh9nk9a3x64a </code>  </li>
 <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/480px-Ethereum-icon-purple.svg.png" length="19" width="19"> ETH: <code> 0xAD74800e1fc0518B7a3A47b921F93aDDB62F5CB3 </code> </li>
