@@ -5,7 +5,7 @@
 
 <code>💻 ABOUT_ME.md&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;&lrm;&nbsp;🗕 🗗 🗙</code>
 
->  um i just write code. i know Lua, Typescript, HTML and CSS.
+>  um i just write code. i know Lua, Typescript, HTML, CSS, PHP and Python.
 
 <hr>
 
