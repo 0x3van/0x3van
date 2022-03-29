@@ -7,7 +7,9 @@
 
 <b> ABOUT ME </b>
 
-`🔴 Owner `  `⬤ evan `
+`🔴 Owner ` 
+`⬤ evan `
+`🔵 swag role `
 
 
 >  um i just write code. i know Lua, Typescript, HTML, CSS, PHP and Python.
