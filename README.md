@@ -10,8 +10,8 @@
 <hr>
 
 <li> my website is https://evan.systems </li>
-<li> im a lua, html, css and ts scripter. </li>
-<li> fuck you </li>
+<li> im a lua, html, css, ts/js, php and python scripter. </li>
+<li> fuck you thats for visiting my page welcome to dantes lowest circle of hell</li>
 
 <hr>
 
