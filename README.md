@@ -17,6 +17,7 @@
 <li> my website is https://evan.systems </li>
 <li> i investigate vulnerabilities, loopholes in systems (especially websites since people are retarded these days) and experiment with said vulnerabilities </li>
 <li> im a lua, html, css, ts/js, php and python scripter. </li>
+<li> im learning Go and C++. </li>
 <li> fuck you thats for visiting my page welcome to dantes lowest circle of hell</li>
 
 <hr>
