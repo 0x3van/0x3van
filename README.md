@@ -19,6 +19,7 @@
 <li> im a lua, html, css, ts/js, php and python scripter. </li>
 <li> im learning Go and C++. </li>
 <li> fuck you thats for visiting my page welcome to dantes lowest circle of hell</li>
+<li> did privilege escalation on your mother </li>
 
 <hr>
 
