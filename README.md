@@ -23,6 +23,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x3van)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <hr>
 
 give me money in paypal in my website nerd
