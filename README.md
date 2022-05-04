@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"><img src="https://github.com/0x3van/0x3van/raw/main/download%20(4).png"> <br> evan </h1><h4 align="center"> @0x3van </h4>
+<h1 align="center"><img src="https://cdn.discordapp.com/attachments/842610340168728588/971247134663909526/91277081-modified_1.png"> <br> evan </h1><h4 align="center"> @0x3van </h4>
 <h3 align="center">Lua, JS and Python</h3>
 <li align="center"> i am currently learning <a href="https://vlang.io">V</a>, <a href="https://www.cprogramming.com/">C</a> and <a href="https://go.dev">Go</a> 
 
