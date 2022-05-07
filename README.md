@@ -2,7 +2,7 @@
 
 
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/842610340168728588/971247134663909526/91277081-modified_1.png" width=140 height=140> <br> evan </h1><h4 align="center"> @0x3van </h4>
-<h3 align="center">Lua, JS and Python</h3>
+<h3 align="center">Lua, Node.js and Python</h3>
 <li align="center"> i am currently learning <a href="https://vlang.io">V</a>, <a href="https://www.cprogramming.com/">C</a> and <a href="https://go.dev">Go</a> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0x3van&label=Profile%20views&color=0e75b6&style=flat" alt="0x3van" /> </p>
