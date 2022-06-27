@@ -9,15 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x3van" alt="0x3van" /></a> </p>
 
-<h3 align="left">my server:</h3>
-<p align="left">
-<a href="https://discord.gg/96hNSsus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="96hNSsus" height="30" width="40" /></a>
-</p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x3van&show_icons=true&theme=default&locale=en" alt="0x3van" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x3van&" alt="0x3van" /></p>
+oh yeah ignore the large amount of repositories, im tryign to get the repos i have which only have like one file over to github gists lo
 
 ![snake gif](https://github.com/0x3van/0x3van/blob/output/github-contribution-grid-snake.gif)
 <hr>
