@@ -5,10 +5,6 @@
 <h3 align="center">Lua, Node.js and Python</h3>
 <li align="center"> i am currently learning <a href="https://vlang.io">V</a>, <a href="https://www.cprogramming.com/">C</a> and <a href="https://go.dev">Go</a> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0x3van&label=Profile%20views&color=0e75b6&style=flat" alt="0x3van" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x3van" alt="0x3van" /></a> </p>
-
 oh yeah ignore the large amount of repositories, im tryign to get the repos i have which only have like one file over to github gists lo
 
 ![snake gif](https://github.com/0x3van/0x3van/blob/output/github-contribution-grid-snake.gif)
