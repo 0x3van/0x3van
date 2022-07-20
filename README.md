@@ -1,7 +1,6 @@
 
-
-
-<h1 align="center"> <br> evan </h1><h4 align="center"> @0x3van </h4>
+X
+<h1 align="center"> <br> evan </h1>
 <h3 align="center">Lua, Node.js and Python</h3>
 <li align="center"> i am currently working with on pwnmap (OSINT framework) and delorean (webshell generator) , along with other side projects like supercalifragilisticexpialidociousbot (a racist discord bot) and evhost (image host)
 
