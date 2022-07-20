@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"><img src="https://cdn.discordapp.com/attachments/842610340168728588/971247134663909526/91277081-modified_1.png" width=140 height=140> <br> evan </h1><h4 align="center"> @0x3van </h4>
+<h1 align="center"> <br> evan </h1><h4 align="center"> @0x3van </h4>
 <h3 align="center">Lua, Node.js and Python</h3>
 <li align="center"> i am currently working with on pwnmap (OSINT framework) and delorean (webshell generator) , along with other side projects like supercalifragilisticexpialidociousbot (a racist discord bot) and evhost (image host)
 
@@ -9,9 +9,9 @@ oh yeah ignore the large amount of repositories, im tryign to get the repos i ha
 
 ![snake gif](https://github.com/0x3van/0x3van/blob/output/github-contribution-grid-snake.gif)
 <hr>
-
-<a href="https://github.com/0x3van/0x3van/issues/1">comment on guestbook here</a> 
-
+<p align="left">
+<a align="left" href="https://github.com/0x3van/0x3van/issues/1">comment on my guestbook here</a> 
+  </p>
 
 <!-- Guestbook -->
 | Name | Date | Message |
